@@ -42,5 +42,12 @@ We made two games. First is Hangman. In this game the gamer guess the word in ma
 * Sandler, T, and Arce M, Daniel. (2003). Terrorism and Game Theory. vol. 34, issue 3, International Simulation and Gaming Association (ISAGA).
 
 
+<h2> Contributors </h2>
+
+1. Yug Patel (https://github.com/Yugp72)
+2. Spandan Shah (https://github.com/SpandanShah)
+3. Dhanya Mehta (https://github.com/)
+
+
     
      
