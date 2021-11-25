@@ -19,11 +19,16 @@ We made two games. First is Hangman. In this game the gamer guess the word in ma
 <h2> Results </h2>
 --
 
-* Hangman:![hangman](https://user-images.githubusercontent.com/84141439/143482201-a21c250a-33ae-40b2-9e4e-309bc9ca990f.png)
+* Hangman:
+
+![hangman](https://user-images.githubusercontent.com/84141439/143482201-a21c250a-33ae-40b2-9e4e-309bc9ca990f.png)
 
   
     
   
  * TIC TAC TOE
+
+![Tic tac toe](https://user-images.githubusercontent.com/84141439/143482275-47dd5aee-210d-432f-bebe-66303a17c738.png)
+
     
      
