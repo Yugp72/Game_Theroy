@@ -38,6 +38,8 @@ We made two games. First is Hangman. In this game the gamer guess the word in ma
 * Osborne, M. J., & Rubinstein, A. (1994). A course in game theory. MIT press.
 * Colman, A. M. (2003). Cooperation, psychological game theory, and limitations of rationality in social interaction. Behavioral and Brain Sciences, 26(02), 139-153.
 * Dufwenberg, M., & Kirchsteiger, G. (2004). A theory of sequential reciprocity. Games and economic behavior, 47(2), 268-298.
+* Izquierdo, L.R. (2008). Advancing Learning and Evolutionary Game Theory with an Application to Social Dilemmas. Munich Personal RePEc Archive, Paper #8664, pp.199, retrieved from https://mpra.ub.uni-muenchen.de/8664/1/MPRA_paper_8664.pdf
+* Sandler, T, and Arce M, Daniel. (2003). Terrorism and Game Theory. vol. 34, issue 3, International Simulation and Gaming Association (ISAGA).
 
 
     
