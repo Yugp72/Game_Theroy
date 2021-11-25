@@ -50,7 +50,7 @@ We made two games. First is Hangman. In this game the gamer guess the word in ma
 
 
 
-    <br>___|___</br>
+    <br>---|---</br>
 
     Guess any letter in the word for Marval serice
     
