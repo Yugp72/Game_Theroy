@@ -37,30 +37,57 @@ We made two games. First is Hangman. In this game the gamer guess the word in ma
     ___|___
 
     Guess any letter in the word for Marval serice
+    
     c*******m***c*
+    
     a
+    
     Guess any letter in the word for Marval serice
+    
     ca******m***ca
+    
     p
+    
     Guess any letter in the word for Marval serice
+    
     cap*****m***ca
+    
     t
+    
     Guess any letter in the word for Marval serice
+    
     capt****m***ca
+    
     i
+    
     Guess any letter in the word for Marval serice
+    
     capti***m**ica
+    
     o
+    
     Guess any letter in the word for Marval serice
+    
     captio**m**ica
+    
     n
+    
     Guess any letter in the word for Marval serice
+    
     caption*m**ica
+    
     A
+    
     Guess any letter in the word for Marval serice
+    
     captionAm**ica
+    
     e
+    
     Guess any letter in the word for Marval serice
+    
     captionAme*ica
+    
     r
+    
     Correct, You guess the right word, The word was captionAmerica
