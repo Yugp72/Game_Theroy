@@ -23,7 +23,7 @@ We made two games. First is Hangman. In this game the gamer guess the word in ma
 
     Guess any letter in the word for Marval serice
       
-    **************
+    <br>**************</br>
     
     c
     
