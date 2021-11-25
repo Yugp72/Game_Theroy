@@ -49,7 +49,7 @@ We made two games. First is Hangman. In this game the gamer guess the word in ma
 
 1. Yug Patel (https://github.com/Yugp72)
 2. Spandan Shah (https://github.com/SpandanShah)
-3. Dhanya Mehta (https://github.com/)
+3. Dhanya Mehta (https://github.com/dhanyamehta)
 
 
     
