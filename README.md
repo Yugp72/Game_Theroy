@@ -111,7 +111,7 @@ We made two games. First is Hangman. In this game the gamer guess the word in ma
   
  * TIC TAC TOE
     
-     1 | 2 | 3  
+      1 | 2 | 3  
 	 ---|---|--- 
 	  4 | 5 | 6  
 	 ---|---|--- 
